@@ -8,6 +8,8 @@ import java.util.stream.IntStream;
 /**
  * @author Benjamin Winterberg
  */
+
+//Test Comment
 public class Atomic1 {
 
     private static final int NUM_INCREMENTS = 1000;
